@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1__Create_course_table.sql
+  checksum: ad6139ce23b89cbf6e5f05f50c87c6089a2617bcd84fceebad3498288f1fda9e
+- filename: src/main/resources/application.yml
+  checksum: 42cc6db69524ac12e226aea9f229ef955742033e9f90c98a0ad1c8321b535160
